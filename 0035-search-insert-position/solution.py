@@ -16,4 +16,3 @@ class Solution:
 
         # If not found, l is the correct insertion index
         return l
-
